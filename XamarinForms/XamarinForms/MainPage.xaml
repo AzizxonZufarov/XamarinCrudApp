@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinForms.MainPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Добавить"
+                     Clicked="AddItem">
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <CollectionView x:Name="itemsCollection">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Margin="0,0,0,30">
+                        <StackLayout BackgroundColor="LightBlue" Padding="15" > 
+                            <Image Source="{Binding Image}" Aspect="AspectFill" HeightRequest="200"/>
+                            <Label Text="{Binding Title}" FontAttributes="Bold" FontSize="25"/>
+                            <Label Text="{Binding Desc}" />
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Цена: " FontAttributes="Bold"/>
+                                <Label Text="{Binding Price}" FontAttributes="Bold" FontSize="12"/>
+                                <Label Text="$" FontAttributes="Bold" FontSize="12" />
+                            </StackLayout>
+                            <Button CommandParameter="{Binding .}" Text="Изменить" Clicked="EditItem" BackgroundColor="Green" TextColor="White" />
+                            <Button Text="Удалить" Clicked="DeleteItem" BackgroundColor="Red" TextColor="White" />
+                        </StackLayout>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+    <!--<ScrollView>
+         <StackLayout BackgroundColor="Yellow" Margin="40, 10" Padding="8">
+            <Label Text="Hello" />
+            <Label Text="World" />
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Hello" />
+                <Label Text="World" />
+            </StackLayout>
+        </StackLayout>-
+        <AbsoluteLayout>
+            <BoxView BackgroundColor="Red" AbsoluteLayout.LayoutBounds="70,150,70,100" />
+        </AbsoluteLayout>-->
+
+         <!-- <StackLayout>
+            <Frame BackgroundColor="red" BorderColor="Blue">
+                <StackLayout>
+                    <Label Text="Hello" TextColor="white" />
+                    <Label Text="World" />
+                    <BoxView BackgroundColor="Blue" />
+                </StackLayout>
+            </Frame>
+        </StackLayout>-->
+        <!--<Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"  />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <BoxView BackgroundColor="Yellow" Grid.Column="1" Grid.Row="0" />
+            <BoxView BackgroundColor="Red" Grid.Column="1" Grid.Row="1"/>
+            <BoxView BackgroundColor="Blue" Grid.Column="1" Grid.Row="2"/>
+        </Grid>    
+    </ScrollView>
+    
+    <StackLayout>
+        <Label Text="Регистрация" FontSize="25" />
+        <Entry x:Name="nameField" Placeholder="Enter name" />
+        <Entry x:Name="emailField" Placeholder="Enter email" />
+        <Entry x:Name="passField" Placeholder="Enter pass" IsPassword="True"/>
+        <Label Text="Вы согласны?" />
+        <CheckBox x:Name="checkField" />
+        <Button x:Name="buttonSend" Text="Отправить" Clicked="ButtonClick" />
+        <Label x:Name="errorText" Text="" TextColor="Red" FontSize="24" />
+    </StackLayout>
+
+    <StackLayout>
+        <Label Text="Hello World" TextDecorations="Underline" FontSize="24" TextColor="Red" TextTransform="Uppercase"/>
+        <Button Text="Hажми на меня" TextColor="Blue" />
+        <Label Text="Right?" />
+        <CheckBox />
+        <RadioButton GroupName="state" />
+        <RadioButton GroupName="state" />
+        <Entry IsPassword="True" Placeholder="Enter password" />
+        <Entry Placeholder="Enter email" />
+        <Editor Placeholder="Enter text" />
+        <Slider Minimum="0" Maximum="50" VerticalOptions="CenterAndExpand"/>
+        <Switch IsToggled="True" />
+        <Image Source="https://ibb.co/XkC76WW" WidthRequest="50" HeightRequest="50"/>
+        <WebView HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Source="olx.uz" />
+    </StackLayout>-->
+    <!--<StackLayout>
+        <Button x:Name="button1" Text="Нажать!" Clicked="Button_Click" />
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms, Azizxon!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Start developing now" FontSize="Title" Padding="30,100,50,50"/>
+        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at7 "/>
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>-->
+
+</ContentPage>

@@ -1,0 +1,32 @@
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\bin\Debug\netstandard2.0\XamarinForms.deps.json
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\bin\Debug\netstandard2.0\XamarinForms.dll
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\bin\Debug\netstandard2.0\XamarinForms.pdb
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.csproj.AssemblyReference.cache
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.AssemblyInfoInputs.cache
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.AssemblyInfo.cs
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.csproj.CoreCompileInputs.cache
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.dll
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\refint\XamarinForms.dll
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.pdb
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\ref\XamarinForms.dll
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.csproj.AssemblyReference.cache
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.AssemblyInfoInputs.cache
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.AssemblyInfo.cs
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.csproj.CoreCompileInputs.cache
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.dll
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\refint\XamarinForms.dll
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamarinForms.pdb
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\bin\Debug\netstandard2.0\XamarinForms.deps.json
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\bin\Debug\netstandard2.0\XamarinForms.dll
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\bin\Debug\netstandard2.0\XamarinForms.pdb
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\ref\XamarinForms.dll
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\EditDetail.xaml.g.cs
+C:\OSPanel\domains\localhost\XamarinForms\XamarinForms\XamarinForms\obj\Debug\netstandard2.0\AddPage.xaml.g.cs

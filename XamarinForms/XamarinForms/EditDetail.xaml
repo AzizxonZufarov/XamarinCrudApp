@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinForms.EditDetail">
+    <StackLayout Margin="20">
+        <Entry x:Name="titleField" Placeholder="Enter title"/>
+        <Editor x:Name="descField" Placeholder="Enter desc" HeightRequest="100"/>
+        <Image x:Name="imageField" Aspect="AspectFill"  HeightRequest="200"/>
+        <Button Text="Загрузка изображения" Clicked="GetImagePath" />
+        
+        <Entry x:Name="priceField" Placeholder="Enter price"/>
+        <Button Text="Обновить" Clicked="UpdateItem" />
+    </StackLayout>
+    
+</ContentPage>
